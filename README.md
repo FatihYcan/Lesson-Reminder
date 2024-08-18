@@ -33,3 +33,7 @@ Bu proje, React ile oluşturulmuş bir basit uygulamadır. Uygulama, bir `Header
 - CSS3
 - Module CSS
 - JavaScript
+
+https://github.com/user-attachments/assets/37ca9a5a-87a0-4b36-94cf-245e10f68996
+
+[Live](https://fy-reminder-lesson.netlify.app/)
